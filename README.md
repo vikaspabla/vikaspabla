@@ -1,4 +1,4 @@
-  ![Header](https://github.com/vikaspabla/vikaspabla/blob/main/github-header-image%20(1).png)
+  ![Header](https://github.com/vikaspabla/vikaspabla/blob/main/github-header-image.png)
 
 
 
